@@ -1,0 +1,76 @@
+.body-styles {
+  background-color: #000000;
+}
+.image {
+  flex: 1;
+  width: 960px;
+  height: 806px;
+  margin: 82px;
+  margin-right: 43px;
+}
+.text {
+  flex: 2;
+  width: 708px;
+  height: 549px;
+  margin: 224px;
+  margin-left: 79px;
+}
+.about-us {
+  display: flex;
+  background: linear-gradient(
+    90deg,
+    rgba(109, 149, 252, 0.26) 15.67%,
+    rgba(109, 149, 252, 0) 50%);  
+}
+.about {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-size: 21px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #6d95fc;
+}
+.about-us-head {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 1.245;
+  text-transform: capitalize;
+  color: #fff;
+}
+.creative{
+    color: #6d95fc;
+}
+.we-love {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 17px;
+  letter-spacing: 0.01em;
+  text-transform: capitalize;
+  text-align: left;
+  color: #6d95fc;
+}
+.about-title {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-size: 21px;
+  line-height: 1.665;
+  letter-spacing: 0.04em;
+  color: #fff;
+}
+.link-read-more {
+  text-decoration: none;
+  color: #000000;
+  border: 3px solid #6d95fc;
+  border-radius: 2px;
+  padding: 10px 25px;
+  width: 175px;
+  height: 46px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 17px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  text-align: center;
+  color: #fff;
+}
