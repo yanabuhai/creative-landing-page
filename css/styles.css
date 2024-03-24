@@ -10,13 +10,14 @@
 /* oleksii / header */
 
 .header{
-    
+    position: fixed;
     width: 1920px;
     height: 120px;
     background-color: black;
     display: flex; 
     justify-content: space-between;
     align-items: center; 
+    z-index: 1000;
     
 }
 
@@ -68,19 +69,17 @@
     position: relative;
     display: flex;
     justify-content: space-between;
-    align-items: center;   
+    align-items: center;
+    padding-top: 120px;  
 }
 
-.hero-container{
-    
-}
 
-.hero-women{
-    
-}
+
+
 
 .hero-info h1{
     margin-top: 75px;
+
 }
 
 .hero-info{
@@ -89,7 +88,6 @@
     position: absolute;
     top: 175px;
     left: 175px;
-    
 }
 
 
