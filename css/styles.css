@@ -57,9 +57,7 @@
     height: 892px;
     background: linear-gradient(270deg, #101010 0%, #101010 100%);
     margin-top: 0;
-    position: relative;
-
-    
+    position: relative;   
 }
 
 
@@ -74,7 +72,6 @@
     position: absolute;
     top: 185px;
     left: 271px;
-    
 }
 
 
