@@ -1,0 +1,84 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* -------------------------advantages---------------------------- */
+
+.advantages-section {
+  background: linear-gradient(90deg, #6d95fc 0%, #151515 100%);
+}
+
+.advantages-list {
+}
+
+.advantages-item {
+}
+
+.advantages-images {
+}
+
+.advantages-subtitle {
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 0;
+  text-align: center;
+  color: #fff;
+}
+
+.advantages-text {
+  font-size: 21px;
+  line-height: 1.23;
+  letter-spacing: 0.04em;
+  text-transform: capitalize;
+  text-align: center;
+  color: #6d95fc;
+}
+
+/* ----------------------------------------------------------------- */
+
+/* ------------------------enjoy------------------------------------ */
+
+.enjoy-section {
+  background-color: #151515;
+}
+
+.enjoy-title {
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 1.37;
+  text-transform: capitalize;
+  text-align: center;
+  color: #fff;
+}
+
+.enjoy-accent {
+  font-weight: 800;
+  color: #6d95fc;
+}
+
+.enjoy-text {
+  font-weight: 500;
+  font-size: 21px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #6d95fc;
+}
+
+.enjoy-list {
+}
+
+.enjoy-item {
+}
+
+.enjoy-images {
+}
+
+/* ------------------------------------------------------------------ */
